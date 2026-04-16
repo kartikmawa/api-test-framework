@@ -1,4 +1,4 @@
-# API Test Framework (Python + pytest)
+# API Automation Framework using Python & Pytest
 
 ## 📌 Overview
 
